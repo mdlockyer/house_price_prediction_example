@@ -1,3 +1,5 @@
+House price prediction example made for the Gearbox Lunch and Learn.
+
 # Usage:
 
 ### *For best results,  it is recommended to use Python 3.8* for this example.
